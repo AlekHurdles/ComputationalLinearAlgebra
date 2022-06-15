@@ -1,0 +1,3 @@
+[65.25 37.25]
+
+Only trivial solutions exist
